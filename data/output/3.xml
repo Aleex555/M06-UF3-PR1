@@ -1,106 +1,3310 @@
 <tags>
   <tag>
+    <name>naruto</name>
+    <count>1498</count>
+  </tag>
+  <tag>
     <name>one-piece</name>
-    <count>1</count>
+    <count>731</count>
   </tag>
   <tag>
-    <name>yu-yu-hakusho</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sora-no-otoshimono</name>
-    <count>1</count>
+    <name>music</name>
+    <count>559</count>
   </tag>
   <tag>
     <name>anime-production</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dragon-ball-z</name>
-    <count>1</count>
+    <count>457</count>
   </tag>
   <tag>
     <name>dragon-ball-series</name>
-    <count>1</count>
+    <count>371</count>
   </tag>
   <tag>
-    <name>dragon-ball-gt</name>
-    <count>1</count>
+    <name>dragon-ball-super</name>
+    <count>332</count>
   </tag>
   <tag>
-    <name>naruto</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>detective-conan</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>death-note</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>eyeshield-21</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>cowboy-bebop</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mobile-suit-gundam-seed</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>valkyria-chronicles</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>resources</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>manga-production</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>steins-gate</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>lucky-star</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>terminology</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>doujinshi</name>
-    <count>1</count>
+    <name>attack-on-titan</name>
+    <count>321</count>
   </tag>
   <tag>
     <name>tropes</name>
-    <count>1</count>
+    <count>285</count>
   </tag>
   <tag>
-    <name>ergo-proxy</name>
-    <count>1</count>
+    <name>japanese-language</name>
+    <count>269</count>
+  </tag>
+  <tag>
+    <name>my-hero-academia</name>
+    <count>268</count>
+  </tag>
+  <tag>
+    <name>fairy-tail</name>
+    <count>237</count>
+  </tag>
+  <tag>
+    <name>death-note</name>
+    <count>220</count>
+  </tag>
+  <tag>
+    <name>bleach</name>
+    <count>217</count>
   </tag>
   <tag>
     <name>fullmetal-alchemist-series</name>
-    <count>1</count>
+    <count>215</count>
+  </tag>
+  <tag>
+    <name>culture</name>
+    <count>196</count>
+  </tag>
+  <tag>
+    <name>hunter-x-hunter</name>
+    <count>181</count>
+  </tag>
+  <tag>
+    <name>anime-history</name>
+    <count>164</count>
+  </tag>
+  <tag>
+    <name>manga-production</name>
+    <count>163</count>
+  </tag>
+  <tag>
+    <name>pokemon</name>
+    <count>162</count>
+  </tag>
+  <tag>
+    <name>dragon-ball-z</name>
+    <count>152</count>
+  </tag>
+  <tag>
+    <name>sword-art-online</name>
+    <count>143</count>
+  </tag>
+  <tag>
+    <name>one-punch-man</name>
+    <count>141</count>
+  </tag>
+  <tag>
+    <name>tokyo-ghoul</name>
+    <count>133</count>
+  </tag>
+  <tag>
+    <name>code-geass</name>
+    <count>123</count>
   </tag>
   <tag>
     <name>fullmetal-alchemist-brotherhood</name>
-    <count>1</count>
+    <count>120</count>
+  </tag>
+  <tag>
+    <name>boruto</name>
+    <count>116</count>
+  </tag>
+  <tag>
+    <name>fate-stay-night</name>
+    <count>112</count>
+  </tag>
+  <tag>
+    <name>merchandise</name>
+    <count>111</count>
+  </tag>
+  <tag>
+    <name>monogatari-series</name>
+    <count>100</count>
+  </tag>
+  <tag>
+    <name>seven-deadly-sins</name>
+    <count>100</count>
+  </tag>
+  <tag>
+    <name>resources</name>
+    <count>98</count>
+  </tag>
+  <tag>
+    <name>madoka-magica</name>
+    <count>90</count>
+  </tag>
+  <tag>
+    <name>neon-genesis-evangelion</name>
+    <count>84</count>
+  </tag>
+  <tag>
+    <name>terminology</name>
+    <count>81</count>
+  </tag>
+  <tag>
+    <name>jojos-bizarre-adventure</name>
+    <count>81</count>
+  </tag>
+  <tag>
+    <name>a-certain-magical-index</name>
+    <count>74</count>
+  </tag>
+  <tag>
+    <name>theme-song</name>
+    <count>71</count>
+  </tag>
+  <tag>
+    <name>dragon-ball-manga</name>
+    <count>70</count>
+  </tag>
+  <tag>
+    <name>dragon-ball</name>
+    <count>67</count>
+  </tag>
+  <tag>
+    <name>fate-zero</name>
+    <count>63</count>
+  </tag>
+  <tag>
+    <name>steins-gate</name>
+    <count>59</count>
+  </tag>
+  <tag>
+    <name>dragon-ball-heroes</name>
+    <count>59</count>
+  </tag>
+  <tag>
+    <name>demon-slayer</name>
+    <count>56</count>
+  </tag>
+  <tag>
+    <name>a-certain-scientific-railgun</name>
+    <count>53</count>
+  </tag>
+  <tag>
+    <name>sailor-moon</name>
+    <count>51</count>
+  </tag>
+  <tag>
+    <name>black-clover</name>
+    <count>51</count>
+  </tag>
+  <tag>
+    <name>manga-history</name>
+    <count>49</count>
+  </tag>
+  <tag>
+    <name>gintama</name>
+    <count>45</count>
+  </tag>
+  <tag>
+    <name>voice-acting</name>
+    <count>44</count>
+  </tag>
+  <tag>
+    <name>detective-conan</name>
+    <count>43</count>
+  </tag>
+  <tag>
+    <name>symbolism</name>
+    <count>43</count>
+  </tag>
+  <tag>
+    <name>yu-gi-oh</name>
+    <count>43</count>
+  </tag>
+  <tag>
+    <name>overlord</name>
+    <count>41</count>
+  </tag>
+  <tag>
+    <name>dragon-ball-movies</name>
+    <count>40</count>
+  </tag>
+  <tag>
+    <name>from-the-new-world</name>
+    <count>39</count>
+  </tag>
+  <tag>
+    <name>fate-series</name>
+    <count>38</count>
+  </tag>
+  <tag>
+    <name>re-zero</name>
+    <count>38</count>
+  </tag>
+  <tag>
+    <name>noragami</name>
+    <count>36</count>
+  </tag>
+  <tag>
+    <name>parasyte</name>
+    <count>36</count>
+  </tag>
+  <tag>
+    <name>mangaka</name>
+    <count>35</count>
+  </tag>
+  <tag>
+    <name>black-butler</name>
+    <count>34</count>
+  </tag>
+  <tag>
+    <name>your-lie-in-april</name>
+    <count>34</count>
+  </tag>
+  <tag>
+    <name>the-quintessential-quintuplets</name>
+    <count>34</count>
+  </tag>
+  <tag>
+    <name>angel-beats</name>
+    <count>33</count>
+  </tag>
+  <tag>
+    <name>avatar</name>
+    <count>33</count>
+  </tag>
+  <tag>
+    <name>nichijou</name>
+    <count>33</count>
+  </tag>
+  <tag>
+    <name>soul-eater</name>
+    <count>32</count>
+  </tag>
+  <tag>
+    <name>akame-ga-kill</name>
+    <count>32</count>
   </tag>
   <tag>
     <name>fullmetal-alchemist-2003</name>
-    <count>1</count>
+    <count>31</count>
+  </tag>
+  <tag>
+    <name>rurouni-kenshin</name>
+    <count>31</count>
+  </tag>
+  <tag>
+    <name>durarara</name>
+    <count>31</count>
+  </tag>
+  <tag>
+    <name>kaguya-sama-love-is-war</name>
+    <count>31</count>
+  </tag>
+  <tag>
+    <name>reincarnated-as-a-slime</name>
+    <count>30</count>
+  </tag>
+  <tag>
+    <name>fullmetal-alchemist-manga</name>
+    <count>29</count>
+  </tag>
+  <tag>
+    <name>meme</name>
+    <count>29</count>
+  </tag>
+  <tag>
+    <name>danganronpa</name>
+    <count>29</count>
+  </tag>
+  <tag>
+    <name>japan</name>
+    <count>29</count>
+  </tag>
+  <tag>
+    <name>jujutsu-kaisen</name>
+    <count>29</count>
+  </tag>
+  <tag>
+    <name>dragon-ball-gt</name>
+    <count>28</count>
+  </tag>
+  <tag>
+    <name>nanoha</name>
+    <count>28</count>
+  </tag>
+  <tag>
+    <name>identification-request</name>
+    <count>27</count>
+  </tag>
+  <tag>
+    <name>another</name>
+    <count>27</count>
+  </tag>
+  <tag>
+    <name>konosuba</name>
+    <count>27</count>
+  </tag>
+  <tag>
+    <name>the-world-god-only-knows</name>
+    <count>26</count>
+  </tag>
+  <tag>
+    <name>berserk</name>
+    <count>26</count>
+  </tag>
+  <tag>
+    <name>cowboy-bebop</name>
+    <count>25</count>
+  </tag>
+  <tag>
+    <name>psycho-pass</name>
+    <count>25</count>
+  </tag>
+  <tag>
+    <name>assassination-classroom</name>
+    <count>25</count>
+  </tag>
+  <tag>
+    <name>shokugeki-no-soma</name>
+    <count>24</count>
+  </tag>
+  <tag>
+    <name>ghost-in-the-shell</name>
+    <count>23</count>
+  </tag>
+  <tag>
+    <name>digimon</name>
+    <count>23</count>
+  </tag>
+  <tag>
+    <name>final-fantasy</name>
+    <count>23</count>
+  </tag>
+  <tag>
+    <name>ghost-in-the-shell-sac</name>
+    <count>22</count>
+  </tag>
+  <tag>
+    <name>vampire-knight</name>
+    <count>22</count>
+  </tag>
+  <tag>
+    <name>oregairu</name>
+    <count>22</count>
+  </tag>
+  <tag>
+    <name>mirai-nikki</name>
+    <count>22</count>
+  </tag>
+  <tag>
+    <name>kill-la-kill</name>
+    <count>22</count>
+  </tag>
+  <tag>
+    <name>naruto-gaiden</name>
+    <count>22</count>
+  </tag>
+  <tag>
+    <name>censorship</name>
+    <count>21</count>
+  </tag>
+  <tag>
+    <name>love-chunibyo-and-other-delusions</name>
+    <count>21</count>
+  </tag>
+  <tag>
+    <name>koe-no-katachi</name>
+    <count>21</count>
+  </tag>
+  <tag>
+    <name>streaming-sites</name>
+    <count>21</count>
+  </tag>
+  <tag>
+    <name>darker-than-black</name>
+    <count>20</count>
+  </tag>
+  <tag>
+    <name>magi</name>
+    <count>20</count>
+  </tag>
+  <tag>
+    <name>ar-tonelico</name>
+    <count>20</count>
+  </tag>
+  <tag>
+    <name>danmachi</name>
+    <count>20</count>
+  </tag>
+  <tag>
+    <name>high-school-dxd</name>
+    <count>19</count>
+  </tag>
+  <tag>
+    <name>toradora</name>
+    <count>19</count>
+  </tag>
+  <tag>
+    <name>gundam</name>
+    <count>19</count>
+  </tag>
+  <tag>
+    <name>kuroko-no-basket</name>
+    <count>19</count>
+  </tag>
+  <tag>
+    <name>crunchyroll</name>
+    <count>19</count>
+  </tag>
+  <tag>
+    <name>higurashi-when-they-cry</name>
+    <count>18</count>
+  </tag>
+  <tag>
+    <name>cardcaptor-sakura</name>
+    <count>18</count>
+  </tag>
+  <tag>
+    <name>spice-and-wolf</name>
+    <count>18</count>
+  </tag>
+  <tag>
+    <name>hellsing</name>
+    <count>18</count>
+  </tag>
+  <tag>
+    <name>guilty-crown</name>
+    <count>18</count>
+  </tag>
+  <tag>
+    <name>log-horizon</name>
+    <count>18</count>
+  </tag>
+  <tag>
+    <name>yu-yu-hakusho</name>
+    <count>17</count>
+  </tag>
+  <tag>
+    <name>copyright</name>
+    <count>17</count>
+  </tag>
+  <tag>
+    <name>tourism</name>
+    <count>17</count>
+  </tag>
+  <tag>
+    <name>love-live</name>
+    <count>17</count>
+  </tag>
+  <tag>
+    <name>light-novel-production</name>
+    <count>17</count>
+  </tag>
+  <tag>
+    <name>the-irregular-at-magic-high-school</name>
+    <count>17</count>
+  </tag>
+  <tag>
+    <name>no-game-no-life</name>
+    <count>17</count>
+  </tag>
+  <tag>
+    <name>dr.stone</name>
+    <count>17</count>
+  </tag>
+  <tag>
+    <name>lucky-star</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>elfen-lied</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>full-metal-panic</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>haruhi-suzumiya</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>tsukihime</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>inuyasha</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>oreimo</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>k-on</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>monster</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>doraemon</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>k-project</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>yuru-yuri</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>senki-zesshou-symphogear</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>so-im-a-spider-so-what</name>
+    <count>16</count>
+  </tag>
+  <tag>
+    <name>sora-no-otoshimono</name>
+    <count>15</count>
+  </tag>
+  <tag>
+    <name>bakuman</name>
+    <count>15</count>
+  </tag>
+  <tag>
+    <name>saint-seiya</name>
+    <count>15</count>
+  </tag>
+  <tag>
+    <name>gurren-lagann</name>
+    <count>15</count>
+  </tag>
+  <tag>
+    <name>the-garden-of-sinners</name>
+    <count>15</count>
+  </tag>
+  <tag>
+    <name>aldnoah-zero</name>
+    <count>15</count>
+  </tag>
+  <tag>
+    <name>black-bullet</name>
+    <count>15</count>
+  </tag>
+  <tag>
+    <name>your-name</name>
+    <count>15</count>
+  </tag>
+  <tag>
+    <name>doujinshi</name>
+    <count>14</count>
   </tag>
   <tag>
     <name>touhou-project</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>spirited-away</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>anohana</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>grisaia</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>licensing</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>hyperdimension-neptunia</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>the-eccentric-family</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>blue-exorcist</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>beyond-the-boundary</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>nisekoi</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>charlotte</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>mob-psycho-100</name>
+    <count>14</count>
+  </tag>
+  <tag>
+    <name>ranma</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>akira</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>xxxholic</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>hayao-miyazaki</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>.hack</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>rwby</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>haikyuu</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>world-trigger</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>yuri-on-ice</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>a-certain-scientific-accelerator</name>
+    <count>13</count>
+  </tag>
+  <tag>
+    <name>conventions</name>
+    <count>12</count>
+  </tag>
+  <tag>
+    <name>tsubasa-chronicle</name>
+    <count>12</count>
+  </tag>
+  <tag>
+    <name>vocaloid</name>
+    <count>12</count>
+  </tag>
+  <tag>
+    <name>watamote</name>
+    <count>12</count>
+  </tag>
+  <tag>
+    <name>tokyo-ravens</name>
+    <count>12</count>
+  </tag>
+  <tag>
+    <name>kamisama-kiss</name>
+    <count>12</count>
+  </tag>
+  <tag>
+    <name>trigun</name>
+    <count>11</count>
+  </tag>
+  <tag>
+    <name>sayonara-zetsubou-sensei</name>
+    <count>11</count>
+  </tag>
+  <tag>
+    <name>rozen-maiden</name>
+    <count>11</count>
+  </tag>
+  <tag>
+    <name>knights-of-sidonia</name>
+    <count>11</count>
+  </tag>
+  <tag>
+    <name>death-parade</name>
+    <count>11</count>
+  </tag>
+  <tag>
+    <name>gate</name>
+    <count>11</count>
+  </tag>
+  <tag>
+    <name>negima</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>hayate-no-gotoku</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>deadman-wonderland</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>umineko-when-they-cry</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>little-busters</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>fruits-basket</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>natsumes-book-of-friends</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>type-moon</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>cosplay</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>wixoss</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>miss-kobayashis-dragon-maid</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>violet-evergarden</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>darling-in-the-franxx</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>goblin-slayer</name>
+    <count>10</count>
+  </tag>
+  <tag>
+    <name>reborn</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>lupin-the-third</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>katanagatari</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>shakugan-no-shana</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>claymore</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>studio-ghibli</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>robotics-notes</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>zetsuen-no-tempest</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>shonen-jump</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>historys-strongest-disciple-kenichi</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>strike-the-blood</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>captain-earth</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>shirobako</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>fate-apocrypha</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>digimon-tri</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>snow-white-with-the-red-hair</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>erased</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>koutetsujou-no-kabaneri</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>bubuki-buranki</name>
+    <count>9</count>
+  </tag>
+  <tag>
+    <name>clannad</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>crayon-shin-chan</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>revolutionary-girl-utena</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>accel-world</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>great-teacher-onizuka</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>ouran-high-school-host-club</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>howls-moving-castle</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>girls-und-panzer</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>the-devil-is-a-part-timer</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>azumanga-daioh</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>school-days</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>the-flowers-of-evil</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>hyouka</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>nagi-no-asukara</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>kantai-collection</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>danna-wakaranai-ken</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>india</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>the-promised-neverland</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>dororo</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>chainsaw-man</name>
+    <count>8</count>
+  </tag>
+  <tag>
+    <name>ergo-proxy</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>the-twelve-kingdoms</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>gantz</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>d-gray-man</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>to-love-ru</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>the-breaker</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>ghost-in-the-shell-arise</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>robotech</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>dennou-coil</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>slam-dunk</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>captain-tsubasa</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>gatchaman-crowds</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>arakawa-under-the-bridge</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>chaos-head</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>code-geass-akito-the-exiled</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>sunday-without-god</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>yamada-and-the-7-witches</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>fate-kaleid-liner-prisma-illya</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>requiem-for-the-phantom</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>white-album-2</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>non-non-biyori</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>seitokai-yakuindomo</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>speed-grapher</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>initial-d</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>rebuild-of-evangelion</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>yona-of-the-dawn</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>cross-ange</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>kekkai-sensen</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>ushio-to-tora</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>persona</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>twin-star-exorcists</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>nasuverse</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>the-rising-of-the-shield-hero</name>
+    <count>7</count>
+  </tag>
+  <tag>
+    <name>samurai-champloo</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>mushishi</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>nausicaa-of-the-valley-of-the-wind</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>chobits</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>highschool-of-the-dead</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>tenchi-multiverse</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>eureka-seven</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>mawaru-penguindrum</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>the-familiar-of-zero</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>death-billiards</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>daily-lives-of-high-school-boys</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>ro-kyu-bu</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>kinos-journey</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>sign-language</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>date-a-live</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>the-pet-girl-of-sakurasou</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>genshiken</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>beyblade</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>uq-holder</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>utawarerumono</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>gunslinger-girl</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>comiket</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>hamatora</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>maria-sama-ga-miteru</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>aoishiro</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>ajin-demi-human</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>terra-formars</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>yuri-kuma-arashi</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>castle-in-the-sky</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>tales-of-zestiria</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>god-eater</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>subete-ga-f-ni-naru</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>fate-grand-order</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>visual-novel-production</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>little-witch-academia</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>blame</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>rascal-does-not-dream-of-bunny-girl</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>weathering-with-you</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>teasing-master-takagi-san</name>
+    <count>6</count>
+  </tag>
+  <tag>
+    <name>hajime-no-ippo</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>last-exile</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>amv</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>maid-sama</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>hidamari-sketch</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>tower-of-god</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>gakuen-alice</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>eden-of-the-east</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>the-idolmaster</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>shiki</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>pretty-cure</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>black-lagoon</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>game-history</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>boku-wa-tomodachi-ga-sukunai</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>hentai-ouji-to-warawanai-neko</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>carnival-phantasm</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>macross</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>suisei-no-gargantia</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>nodame-cantabile</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>black-rock-shooter</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>btooom</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>serial-experiments-lain</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>nana</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>fate-extra</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>black-jack</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>denkigai-no-honya-san</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>maison-ikkoku</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>the-wind-rises</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>golden-time</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>kingdom</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>toriko</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>miss-monochrome</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>outbreak-company</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>baccano</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>shikkoku-no-sharnoth</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>yosuga-no-sora</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>disgaea</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>tales-of-the-abyss</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>my-neighbor-totoro</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>hitsugi-no-chaika</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>sekai-ichi-hatsukoi</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>brynhildr-in-the-darkness</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>kagerou-project</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>united-states</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>atelier</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>persona4</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>occultic-nine</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>otome-yokai-zakuro</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>wagnaria</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>yamato-2199</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>punchline</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>fairy-tail-zero</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>sky-wizards-academy</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>gakkou-gurashi</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>funimation</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>noir</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>himouto-umaru-chan</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>dagashi-kashi</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>bungou-stray-dogs</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>keijo</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>march-comes-in-like-a-lion</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>fire-force</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>re-creators</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>shuffle</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>kaiji</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>recovery-of-an-mmo-junkie</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>blend-s</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>made-in-abyss</name>
+    <count>5</count>
+  </tag>
+  <tag>
+    <name>gunbuster</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>hikaru-no-go</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>kingdom-hearts</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>full-moon-wo-sagashite</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>crossovers</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>rahxephon</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>gungrave</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>zettai-karen-children</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>aria</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>space-battleship-yamato</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>cage-of-eden</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>live-action-production</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>jigoku-shoujo</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>d.n.angel</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>fist-of-the-north-star</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>sakamoto-desu-ga</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>black-cat</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>welcome-to-the-nhk</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>strawberry-marshmallow</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>valvrave-the-liberator</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>rosario-vampire</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>dusk-maiden-of-amnesia</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>bodacious-space-pirates</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>panel-arrangement</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>kanon</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>blood-lad</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>shaman-king</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>wagatsuma-san-wa-ore-no-yome</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>urusei-yatsura</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>baka-and-test</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>strike-witches</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>freezing</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>unbreakable-machine-doll</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>inari-konkon-koi-iroha</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>rave-master</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>mardock-scramble</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>yowamushi-pedal</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>the-world-is-still-beautiful</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>sabagebu</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>glasslip</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>amagi-brilliant-park</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>mayo-chiki</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>mushoku-tensei</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>trinity-seven</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>yuki-yuna-is-a-hero</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>humanity-has-declined</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>garo</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>saenai-heroine-no-sodatekata</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>domestic-na-kanojo</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>nurarihyon-no-mago</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>plastic-memories</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>unlimited-fafnir</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>seraph-of-the-end</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>hibike-euphonium</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>rokka-no-yuusha</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>gangsta</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>light-novel-history</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>arslan-senki</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>slayers</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>arpeggio-of-blue-steel</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>joker-game</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>bakuon</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>gun-gale-online</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>rewrite</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>worldend</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>hatsune-miku</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>welcome-to-the-ballroom</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>devilman-crybaby</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>vinland-saga</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>chrono-trigger</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>myanimelist</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>perfect-blue</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>cop-craft</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>arifureta</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>welcome-to-demon-school-iruma-kun</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>wandering-witch-journey-of-elaina</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>ascendance-of-a-bookworm</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>spy-x-family</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>my-stepmoms-daughter-is-my-ex</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>law</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>adachi-and-shimamura</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>dark-gathering</name>
+    <count>4</count>
+  </tag>
+  <tag>
+    <name>aoi-bungaku</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>nadia-the-secret-of-blue-water</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>afro-samurai</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>melty-blood</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>one-outs</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>majikoi</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>kokoro-connect</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>trinity-blood</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>digimon-tamers</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>infinite-stratos</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>windaria</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>youre-under-arrest</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>sakamichi-no-apollon</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>kaze-no-stigma</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>princess-jellyfish</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>psyren</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>beelzebub</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>kobato</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>ubel-blatt</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>donyatsu</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>gate-keepers</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>paprika</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>the-law-of-ueki</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>battle-angel-alita</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>future-boy-conan</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>photo-kano</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>monster-rancher</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>sankarea</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>5-centimeters-per-second</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>gankutsuou</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>shura-no-toki</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>mondaiji</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>makoto-shinkai</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>planetes</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>yozakura-quartet</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>silver-spoon</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>mai-hime</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>ookami-kakushi</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>muv-luv</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>sono-hanabira</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>free</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>minami-ke</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>deltora-quest</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>noblesse</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>kare-kano</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>tonari-no-seki-kun</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>x-1999</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>riddle-story-of-devil</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>liar-game</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>prince-of-tennis</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>read-or-die</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>barakamon</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>tokyo-esp</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>konjiki-no-gash-bell</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>devil-may-cry</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>zankyou-no-terror</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>monthly-girls-nozaki-kun</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>cardfight-vanguard</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>patema-inverted</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>fuse</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>yumekui-merry</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>kaito-kid</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>europe</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>akagi</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>usagi-drop</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>koufuku-graffiti</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>galaxy-express-999</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>junketsu-no-maria</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>haibane-renmei</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>from-up-on-poppy-hill</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>ping-pong</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>kyoukai-no-rinne</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>akibas-trip</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>waiting-in-the-summer</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>basilisk</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>itasha</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>the-ancient-magus-bride</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>kore-wa-zombie-desu-ka</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>tonari-no-kaibutsu-kun</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>relife</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>monster-musume-no-iru-nichijou</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>grappler-baki</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>jormungand</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>sekko-boys</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>blue-gender</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>dimension-w</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>ousama-game</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>space-patrol-luluco</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>amanchu</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>dirty-pair</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>tales-of-berseria</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>new-game</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>qualidea-code</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>alderamin-on-the-sky</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>91-days</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>tales-of-phantasia</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>the-sky-crawlers</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>drifters</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>tanaka-kun-is-always-listless</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>all-out</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>i-want-to-eat-your-pancreas</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>juuni-taisen</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>devilman</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>cyber-city-oedo-808</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>sora-yori-mo-tooi-basho</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>thunderbolt-fantasy</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>beastars</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>classroom-of-the-elite</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>komi-cant-communicate</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>to-your-eternity</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>oshi-no-ko</name>
+    <count>3</count>
+  </tag>
+  <tag>
+    <name>eyeshield-21</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>valkyria-chronicles</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>princess-tutu</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>diebuster</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>boys-over-flowers</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>ken-akamatsu</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>pandora-hearts</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>retag</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>oban-star-racers</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>saint-seiya-omega</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>paranoia-agent</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>star-driver</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>those-who-hunt-elves</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>dog-days</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>chihayafuru</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>love-love</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kurozuka</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kaleido-star</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>anedoki</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>binchou-tan</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mahoromatic</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>golden-boy</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>saki</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>skip-beat</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>dragon-ball-z-kai</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>scrapped-princess</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>wolfs-rain</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mnemosyne</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>transformers</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>the-girl-who-leapt-through-time</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kimi-ni-todoke</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>maken-ki</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mushrambo</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>vandread</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>tokyo-mew-mew</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>3x3-eyes</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>flcl</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>vagabond</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>poyopoyo-kansatsu-nikki</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>fushigi-yugi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>time-of-eve</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>squid-girl</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kodomo-no-jikan</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>lotte-no-omocha</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>listen-to-me-girls-i-am-your-father</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>c-control</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>g-senjou-no-maou</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>beck</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>blood+</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>blood-c</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>buso-renkin</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>bastard</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>patlabor</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>orguss</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>inazuma-eleven</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>cobra</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>paradise-kiss</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>agarest-war-zero</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>buddha</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>please-twins</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>agarest-war</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>porco-rosso</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>plastic-neesan</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>strawberry-panic</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kikis-delivery-service</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>bloody-monday</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>da-capo</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>ayakashi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>crows</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>worst</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>joshiraku</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>black-god</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kamidori-alchemy-meister</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>white-album</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>getter-robo</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>area-d</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sundome</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>michiko-to-hatchin</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>fma-sacred-star-of-milos</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>samurai-flamenco</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>honey-and-clover</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>excel-saga</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>amnesia</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>the-knight-in-the-area</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>gingitsune</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kimi-no-iru-machi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>code-breaker</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>coppelion</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sekien-no-inganock</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>the-pilots-love-song</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>gundam-build-fighters</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>air</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>super-sonico</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>agarest-war-2</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>ga-rei</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>wizard-barristers</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>hanasaku-iroha</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>over-drive</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>broken-blade</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>ninku</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>nobunaga-the-fool</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>magical-warfare</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>guyver</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>witch-craft-works</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>the-ravages-of-time</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>yotsubato</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sakigake-otokojuku</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>one-week-friends</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>oyasumi-punpun</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>medaka-box</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mudazumo-naki-kaikaku</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>ikkitousen</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>bravely-default</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>cube-x-cursed-x-curious</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kampfer</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sekirei</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>horimiya</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sora-no-method</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>love-hina</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>hoshi-no-samidare</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>fuuka</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>hideaki-anno</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>zoids</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>blue-spring-ride</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>jinsei</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>flint-the-time-detective</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>madou-king-granzort</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>yakuza-girl</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kyoto-animation</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>shingeki-no-bahamut</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>bokura-ga-ita</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>giniro-no-kami-no-agito</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>nananas-buried-treasure</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>is-the-order-a-rabbit</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>b-gata-h-kei</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>inou-battle</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>moonlight-sculptor</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>imawa-no-kuni-no-alice</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>boku-h</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>diabolik-lovers</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>in-the-beginning-the-bible-stories</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>ni-no-kuni</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>arjuna</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kouji-seo</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>absorb-ability</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mononoke-hime</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>fafner-exodus</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>redline</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>blassreiter</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>etotama</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>tsuritama</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>boogiepop-phantom</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>clockwork-planet</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>aphorism</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sengoku-rance</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>escaflowne</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>in-this-corner-of-the-world</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>princess-kaguya</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>denpa-kyoushi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>os-tan</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>appleseed</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>ranpo-kitan</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sister-princess</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>hidan-no-aria</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>tegami-bachi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>hiroyuki-sawano</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>argento-soma</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>joukamachi-no-dandelion</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>madhouse</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>please-teacher</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>no.-6</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>key</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>triage-x</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>desert-punk</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>shin-megami-tensei</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>bobobo-bo-bo-bobo</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>seirei-tsukai-no-blade-dance</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>city-hunter</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kazuki-takahashi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>rakudai-kishi-no-cavalry</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>chain-chronicle</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sgt-frog</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>corpse-party</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>queens-blade</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mysterious-girlfriend-x</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>hai-to-gensou-no-grimgar</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kaiba</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>shinmai-mao-no-testament</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>karate-shoukoushi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>ojisan-and-marshmallow</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>bakemono-no-ko</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>a-brides-story</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>hundred</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kiznaiver</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>active-raid</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sengoku-youko</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mezzo-dsa</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kochikame</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>fate-hollow-ataraxia</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>gakusen-toshi-asterisk</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>garden-of-words</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kamigami-no-asobi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>pocos-udon-world</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>brave-witches</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>kiss-him-not-me</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>cromartie-high-school</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>flip-flappers</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>baby-steps</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>descending-stories</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>eromanga-sensei</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>quan-zhi-gao-shou</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>hajimete-no-gal</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sasami-san-ganbaranai</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>sagrada-reset</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>tsuki-ga-kirei</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>tales-of-eternia</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>inuyashiki</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>crusher-joe</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>children-of-the-whales</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>pop-team-epic</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>outlaw-star</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>all-around-type-moon</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>death-march</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>netflix</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>voltron-legendary-defender</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>gundam-build-fighters-try</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>cells-at-work</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>tomorrows-joe</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mo-dao-zu-shi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>chrono-cross</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>banana-fish</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>tales-of-symphonia</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>golden-kamui</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>arawi-keiichi</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>boogiepop</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>dragon-quest-adventure-of-dai</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mobile-suit-gundam</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>final-fantasy-xiii</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>cautious-hero</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>toilet-bound-hanako-kun</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>ahiru-no-sora</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>bofuri</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>tamako-market</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>dorohedoro</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mao-gakuin-no-futekigosha</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>goshogun</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>hortensia-saga</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>fly-me-to-the-moon</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>wonder-egg-priority</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>tokyo-revengers</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>shadows-house</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>golden-kamuy</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>grimoire-of-zero</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>phantom-tales-of-the-night</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>gundam-witch-from-mercury</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>the-tunnel-to-summer</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>saihate-no-paladin</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>undead-unluck</name>
+    <count>2</count>
+  </tag>
+  <tag>
+    <name>mobile-suit-gundam-seed</name>
     <count>1</count>
   </tag>
   <tag>
@@ -108,135 +3312,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>voice-acting</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mangaka</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fairy-tail</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>princess-tutu</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>saiunkoku-monogatari</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gunbuster</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>diebuster</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hikaru-no-go</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sailor-moon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>aoi-bungaku</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>bleach</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>bakuman</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kingdom-hearts</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>code-geass</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>boys-over-flowers</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>rurouni-kenshin</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>japanese-language</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sword-art-online</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fate-zero</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ranma</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fate-stay-night</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>elfen-lied</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>madoka-magica</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hajime-no-ippo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>full-metal-panic</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>theme-song</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>higurashi-when-they-cry</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>cardcaptor-sakura</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>clannad</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>reborn</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>angel-beats</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>trigun</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>full-moon-wo-sagashite</name>
     <count>1</count>
   </tag>
   <tag>
@@ -244,59 +3320,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>hunter-x-hunter</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>spice-and-wolf</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>symbolism</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>akira</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>negima</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ken-akamatsu</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>spirited-away</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ronin-warriors</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>anime-history</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>darker-than-black</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>neon-genesis-evangelion</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>pandora-hearts</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>xxxholic</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>haruhi-suzumiya</name>
     <count>1</count>
   </tag>
   <tag>
@@ -304,63 +3328,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>nadia-the-secret-of-blue-water</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>crossovers</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>rahxephon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>durarara</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>afro-samurai</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>pokemon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dragon-ball</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>the-wallflower</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>crayon-shin-chan</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hellsing</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>culture</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gungrave</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>avatar</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tsukihime</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>melty-blood</name>
     <count>1</count>
   </tag>
   <tag>
@@ -372,43 +3340,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>ghost-in-the-shell-sac</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ghost-in-the-shell</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>last-exile</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>fam-the-silver-wing</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>soul-eater</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>samurai-champloo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>amv</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>copyright</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>conventions</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>inuyasha</name>
     <count>1</count>
   </tag>
   <tag>
@@ -416,95 +3348,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>tsubasa-chronicle</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>lupin-the-third</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>censorship</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>retag</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mushishi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>arata-naru-sekai</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fullmetal-alchemist-manga</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-twelve-kingdoms</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>meme</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>one-outs</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>revolutionary-girl-utena</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>majikoi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>oban-star-racers</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nausicaa-of-the-valley-of-the-wind</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>saint-seiya</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>maid-sama</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hidamari-sketch</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tower-of-god</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kokoro-connect</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>trinity-blood</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>digimon-tamers</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>saint-seiya-omega</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>music</name>
     <count>1</count>
   </tag>
   <tag>
@@ -512,15 +3356,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>hayate-no-gotoku</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>bagi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>infinite-stratos</name>
     <count>1</count>
   </tag>
   <tag>
@@ -528,51 +3364,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>chobits</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gurren-lagann</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>highschool-of-the-dead</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>hyouge-mono</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gakuen-alice</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>eden-of-the-east</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gantz</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tenchi-multiverse</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>paranoia-agent</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>zettai-karen-children</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hayao-miyazaki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>d-gray-man</name>
     <count>1</count>
   </tag>
   <tag>
@@ -580,31 +3372,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>tourism</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>a-certain-magical-index</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>a-certain-scientific-railgun</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-idolmaster</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>oreimo</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>fractale</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>katanagatari</name>
     <count>1</count>
   </tag>
   <tag>
@@ -612,35 +3380,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>to-love-ru</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>.hack</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>allison-and-lillia</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shiki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>pretty-cure</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>k-on</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>aria</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nanoha</name>
     <count>1</count>
   </tag>
   <tag>
@@ -648,51 +3388,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>vampire-knight</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gintama</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>windaria</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>mamoru-hosoda</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>black-lagoon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>eureka-seven</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shakugan-no-shana</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-world-god-only-knows</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>star-driver</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>accel-world</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>love-live</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>monogatari-series</name>
     <count>1</count>
   </tag>
   <tag>
@@ -704,42 +3400,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>great-teacher-onizuka</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>youre-under-arrest</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>space-battleship-yamato</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sakamichi-no-apollon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mawaru-penguindrum</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>monster</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>cage-of-eden</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>high-school-dxd</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>those-who-hunt-elves</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>the-tatami-galaxy</name>
     <count>1</count>
   </tag>
@@ -748,27 +3408,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kaze-no-stigma</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-breaker</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>claymore</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>fireball</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>princess-jellyfish</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dog-days</name>
     <count>1</count>
   </tag>
   <tag>
@@ -780,15 +3420,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>deadman-wonderland</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>vividred-operation</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>chihayafuru</name>
     <count>1</count>
   </tag>
   <tag>
@@ -796,31 +3428,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>love-love</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kurozuka</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>manga-history</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>yawara</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kaleido-star</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>psyren</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>game-history</name>
     <count>1</count>
   </tag>
   <tag>
@@ -828,43 +3436,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>anedoki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>anohana</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>studio-ghibli</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>beelzebub</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>binchou-tan</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sayonara-zetsubou-sensei</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mahoromatic</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>domo-kun</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>boku-wa-tomodachi-ga-sukunai</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ouran-high-school-host-club</name>
     <count>1</count>
   </tag>
   <tag>
@@ -876,10 +3448,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>umineko-when-they-cry</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ef-a-fairy-tale-of-the-two</name>
     <count>1</count>
   </tag>
@@ -888,43 +3456,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>live-action-production</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>golden-boy</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>jigoku-shoujo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kobato</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>paca-plus</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>from-the-new-world</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>saki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ghost-in-the-shell-arise</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>black-butler</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hentai-ouji-to-warawanai-neko</name>
     <count>1</count>
   </tag>
   <tag>
@@ -936,55 +3468,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>magi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yu-gi-oh</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>skip-beat</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>carnival-phantasm</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dragon-ball-z-kai</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ubel-blatt</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>little-busters</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>scrapped-princess</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>howls-moving-castle</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>wolfs-rain</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>wolf-children</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>d.n.angel</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>doraemon</name>
     <count>1</count>
   </tag>
   <tag>
@@ -992,35 +3476,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>fist-of-the-north-star</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>girls-und-panzer</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fruits-basket</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>psycho-pass</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mnemosyne</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>toradora</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>banana-no-nana</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>grisaia</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1032,47 +3488,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>macross</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>robotech</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>transformers</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sakamoto-desu-ga</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-devil-is-a-part-timer</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-girl-who-leapt-through-time</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-familiar-of-zero</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kimi-ni-todoke</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>maken-ki</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>tiger-and-bunny</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mushrambo</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1088,23 +3504,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>attack-on-titan</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>maoyuu-maou-yuusha</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>death-billiards</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>vandread</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tokyo-mew-mew</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1112,23 +3512,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>the-garden-of-sinners</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>kite</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nichijou</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>3x3-eyes</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>flcl</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1136,43 +3520,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>daily-lives-of-high-school-boys</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>suisei-no-gargantia</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>vagabond</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>merchandise</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>tonnura-san</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>poyopoyo-kansatsu-nikki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>robotics-notes</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>donyatsu</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>natsumes-book-of-friends</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>black-cat</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1184,47 +3532,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>azumanga-daioh</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fushigi-yugi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>welcome-to-the-nhk</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>time-of-eve</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ro-kyu-bu</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>love-chunibyo-and-other-delusions</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dennou-coil</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gundam</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>anime-no-chikara</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>squid-girl</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kodomo-no-jikan</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1236,31 +3544,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>lotte-no-omocha</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>strawberry-marshmallow</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>listen-to-me-girls-i-am-your-father</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>cross-channel</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gate-keepers</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>paprika</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kinos-journey</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1272,23 +3556,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>slam-dunk</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>c-control</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>g-senjou-no-maou</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>kai-pilgrim</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-law-of-ueki</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1296,83 +3564,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>digimon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>guilty-crown</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sign-language</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>koe-no-katachi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>hatsuyuki-sakura</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nodame-cantabile</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>beck</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>black-rock-shooter</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>vocaloid</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>btooom</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>blood+</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>blood-c</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>buso-renkin</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>bastard</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>captain-tsubasa</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>battle-angel-alita</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>patlabor</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>orguss</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>serial-experiments-lain</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>future-boy-conan</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1380,31 +3572,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>identification-request</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>inazuma-eleven</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>cobra</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nana</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>paradise-kiss</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>rocket-girls</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>school-days</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1416,35 +3584,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>date-a-live</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>agarest-war-zero</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>buddha</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>please-twins</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>agarest-war</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>gatchaman</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gatchaman-crowds</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>watamote</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1452,59 +3592,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>photo-kano</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>yakitate-japan</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>arakawa-under-the-bridge</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-flowers-of-evil</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fate-extra</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>valvrave-the-liberator</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>monster-rancher</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>rosario-vampire</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>mahoutsukai-no-yoru</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sankarea</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>porco-rosso</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>zetsuen-no-tempest</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>another</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>oregairu</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1516,75 +3608,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>dusk-maiden-of-amnesia</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>chaos-head</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>licensing</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hyperdimension-neptunia</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>type-moon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>5-centimeters-per-second</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>first-squad</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>danganronpa</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>bodacious-space-pirates</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>plastic-neesan</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mirai-nikki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>strawberry-panic</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shonen-jump</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>cat-shit-one</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>code-geass-akito-the-exiled</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-pet-girl-of-sakurasou</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sunday-without-god</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>genshiken</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1593,14 +3621,6 @@
   </tag>
   <tag>
     <name>noein</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>panel-arrangement</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>black-jack</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1624,19 +3644,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kikis-delivery-service</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>rakuen-no-arisu-tachi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yamada-and-the-7-witches</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>denkigai-no-honya-san</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1644,87 +3652,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>the-eccentric-family</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>bloody-monday</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kuroko-no-basket</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gankutsuou</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kanon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>da-capo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shura-no-toki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>blood-lad</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>binbou-gami-ga</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fate-kaleid-liner-prisma-illya</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ayakashi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>historys-strongest-disciple-kenichi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shaman-king</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>assassination-classroom</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mondaiji</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>crows</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>worst</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>joshiraku</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>wagatsuma-san-wa-ore-no-yome</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>black-god</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>requiem-for-the-phantom</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1748,10 +3676,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>cosplay</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>yami-shibai</name>
     <count>1</count>
   </tag>
@@ -1760,35 +3684,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>urusei-yatsura</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hyouka</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ghost-hound</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>shokugeki-no-soma</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>blue-exorcist</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>magician</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>rozen-maiden</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>maison-ikkoku</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1797,18 +3697,6 @@
   </tag>
   <tag>
     <name>library-wars</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>makoto-shinkai</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>beyond-the-boundary</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>k-project</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1824,19 +3712,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kamidori-alchemy-meister</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>tears-to-tiara</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>white-album</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>white-album-2</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1852,39 +3728,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>beyblade</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-wind-rises</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>baka-and-test</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>getter-robo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>golden-time</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>area-d</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sundome</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>he-is-my-master</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>planetes</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1896,55 +3740,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kingdom</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>michiko-to-hatchin</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>strike-witches</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>toriko</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>light-novel-production</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>shirokuma-cafe</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fma-sacred-star-of-milos</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>uq-holder</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>berserk</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>log-horizon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>freezing</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yozakura-quartet</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>samurai-flamenco</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1952,15 +3748,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>honey-and-clover</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>mushiking</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>excel-saga</name>
     <count>1</count>
   </tag>
   <tag>
@@ -1968,55 +3756,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>amnesia</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>photon</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>unbreakable-machine-doll</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>otome-x-ranbu</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>utawarerumono</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>crunchyroll</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>silver-spoon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>non-non-biyori</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-knight-in-the-area</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>miss-monochrome</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>outbreak-company</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gingitsune</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>seven-deadly-sins</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2044,10 +3788,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kimi-no-iru-machi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>casshern-sins</name>
     <count>1</count>
   </tag>
@@ -2056,15 +3796,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>strike-the-blood</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>tokyo-godfathers</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>code-breaker</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2072,31 +3804,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>seitokai-yakuindomo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fate-series</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>baccano</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kill-la-kill</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mai-hime</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>mai-otome</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>coppelion</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2104,23 +3812,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>ookami-kakushi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>genius-party</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>muv-luv</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shikkoku-no-sharnoth</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sekien-no-inganock</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2132,35 +3824,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>noragami</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dragon-ball-super</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-pilots-love-song</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gundam-build-fighters</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>juuhime</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>air</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yosuga-no-sora</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sono-hanabira</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2168,19 +3832,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>speed-grapher</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>free</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>zettai-junpaku</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>minami-ke</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2188,19 +3840,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>super-sonico</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>disgaea</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>brave-10</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>inari-konkon-koi-iroha</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2224,26 +3864,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>agarest-war-2</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ga-rei</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yuru-yuri</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>final-fantasy</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>wizard-barristers</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>dragon-half</name>
     <count>1</count>
   </tag>
@@ -2256,10 +3876,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>hanasaku-iroha</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>nabari-no-ou</name>
     <count>1</count>
   </tag>
@@ -2268,19 +3884,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>rwby</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>initial-d</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>very-very-sweet</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gunslinger-girl</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2300,23 +3904,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>deltora-quest</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>heidi-girl-of-the-alps</name>
     <count>1</count>
   </tag>
   <tag>
     <name>kissxsis</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>noblesse</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>rebuild-of-evangelion</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2332,23 +3924,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>rave-master</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tokyo-ravens</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>the-princess-and-the-pilot</name>
     <count>1</count>
   </tag>
   <tag>
     <name>tanabata-no-kuni</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>over-drive</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2372,23 +3952,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>comiket</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>wake-up-girls</name>
     <count>1</count>
   </tag>
   <tag>
     <name>hare-guu</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tales-of-the-abyss</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nagi-no-asukara</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2400,10 +3968,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>hamatora</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>shuu-7</name>
     <count>1</count>
   </tag>
@@ -2412,27 +3976,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>my-neighbor-totoro</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>broken-blade</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ninku</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nobunaga-the-fool</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>arcana-famiglia</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>magical-warfare</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2440,23 +3984,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kare-kano</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>guyver</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>maris-the-chojo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>maria-sama-ga-miteru</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-irregular-at-magic-high-school</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2468,39 +3996,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>tonari-no-seki-kun</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>jigoku-sensei-nube</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>x-1999</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>manabi-straight</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>witch-craft-works</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hitsugi-no-chaika</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nisekoi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kantai-collection</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-ravages-of-time</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2512,31 +4012,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>riddle-story-of-devil</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>orphen</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>wixoss</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mardock-scramble</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sekai-ichi-hatsukoi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>liar-game</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>prince-of-tennis</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2548,15 +4024,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>captain-earth</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>20th-century-boys</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>brynhildr-in-the-darkness</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2564,23 +4032,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kagerou-project</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>sengoku-basara</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yotsubato</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>knights-of-sidonia</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>no-game-no-life</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2596,10 +4048,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>sakigake-otokojuku</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ryu-the-primitive-boy</name>
     <count>1</count>
   </tag>
@@ -2612,23 +4060,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>yowamushi-pedal</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>one-week-friends</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>read-or-die</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ore-ga-heroine</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>united-states</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2640,43 +4072,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>jojos-bizarre-adventure</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-world-is-still-beautiful</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>aoishiro</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>aldnoah-zero</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>barakamon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>oyasumi-punpun</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tokyo-esp</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>atelier</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>jang-geums-dream</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>persona4</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2693,18 +4089,6 @@
   </tag>
   <tag>
     <name>otoboku</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>konjiki-no-gash-bell</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>devil-may-cry</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>zankyou-no-terror</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2725,10 +4109,6 @@
   </tag>
   <tag>
     <name>in-the-clothes-called-fat</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>medaka-box</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2756,23 +4136,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>mudazumo-naki-kaikaku</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>queen-bonjourno</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ikkitousen</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>occultic-nine</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>otome-yokai-zakuro</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2792,39 +4156,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>bravely-default</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>monthly-girls-nozaki-kun</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>gunxsword</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>tokyo-ghoul</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>cube-x-cursed-x-curious</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>only-sense-online</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kampfer</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sekirei</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sabagebu</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2848,14 +4184,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>cardfight-vanguard</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>patema-inverted</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>sword-of-the-emperor</name>
     <count>1</count>
   </tag>
@@ -2869,10 +4197,6 @@
   </tag>
   <tag>
     <name>hiseki-senki-stone-buster</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>wagnaria</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2912,18 +4236,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>haikyuu</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>horimiya</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ar-tonelico</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ar-nosurge</name>
     <count>1</count>
   </tag>
@@ -2932,39 +4244,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>glasslip</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>akame-ga-kill</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>nobodys-boy-remi</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>danna-wakaranai-ken</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fuse</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>voltage-fighter-gowcaizer</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>your-lie-in-april</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>amagi-brilliant-park</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mayo-chiki</name>
     <count>1</count>
   </tag>
   <tag>
@@ -2976,19 +4260,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>yona-of-the-dawn</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>in-search-of-lost-future</name>
     <count>1</count>
   </tag>
   <tag>
     <name>emma</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>cross-ange</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3012,23 +4288,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>sora-no-method</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yamato-2199</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>shaman-warrior</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yumekui-merry</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>love-hina</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3052,27 +4312,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>hoshi-no-samidare</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fuuka</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hideaki-anno</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>chie-the-brat</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mushoku-tensei</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shirobako</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3084,10 +4324,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>trinity-seven</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>chiisana-obake</name>
     <count>1</count>
   </tag>
@@ -3096,19 +4332,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>parasyte</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>my-hero-academia</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>aquarian-age</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>streaming-sites</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3116,31 +4340,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>ajin-demi-human</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yuki-yuna-is-a-hero</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>lychee-light-club</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kaito-kid</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>zoids</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>blue-spring-ride</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>terra-formars</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3152,27 +4352,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>jinsei</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fate-apocrypha</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>flint-the-time-detective</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>genma-wars</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>madou-king-granzort</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yakuza-girl</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3188,10 +4368,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>humanity-has-declined</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ghost-hunt</name>
     <count>1</count>
   </tag>
@@ -3204,23 +4380,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>garo</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>sacred-seven</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>kyoto-animation</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ai-tenchi-muyo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shingeki-no-bahamut</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3252,31 +4416,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>bokura-ga-ita</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>giniro-no-kami-no-agito</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nananas-buried-treasure</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>tao-tie-jie</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>europe</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kamisama-kiss</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>is-the-order-a-rabbit</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3284,23 +4424,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>death-parade</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>black-bullet</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>b-gata-h-kei</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>angelic-layer</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>saenai-heroine-no-sodatekata</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3308,27 +4432,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>inou-battle</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>moonlight-sculptor</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>hutch-the-honeybee</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>imawa-no-kuni-no-alice</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>elemental-gelade</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>boku-h</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3360,10 +4468,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>diabolik-lovers</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>boku-to-kanojo-no-koi-log</name>
     <count>1</count>
   </tag>
@@ -3376,10 +4480,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>domestic-na-kanojo</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>real-account</name>
     <count>1</count>
   </tag>
@@ -3388,15 +4488,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>nurarihyon-no-mago</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ikoku-meiro-no-croisee</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>in-the-beginning-the-bible-stories</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3412,23 +4504,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>ni-no-kuni</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>akagi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>para-paru</name>
     <count>1</count>
   </tag>
   <tag>
     <name>domu-a-childs-dream</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>arjuna</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3440,10 +4520,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>usagi-drop</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>holyland</name>
     <count>1</count>
   </tag>
@@ -3452,19 +4528,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kouji-seo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>absorb-ability</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>oda-nobuna-no-yabou</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yuri-kuma-arashi</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3508,19 +4572,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>koufuku-graffiti</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>shounen-kenya</name>
     <count>1</count>
   </tag>
   <tag>
     <name>pom-poko</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>galaxy-express-999</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3540,19 +4596,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>mononoke-hime</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fafner-exodus</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>me-me-me</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>world-trigger</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3564,23 +4608,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>junketsu-no-maria</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>haibane-renmei</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>world-break</name>
     <count>1</count>
   </tag>
   <tag>
     <name>hoshizora-e-kakaru-hashi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>castle-in-the-sky</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3608,10 +4640,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>from-up-on-poppy-hill</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>momo-kyun-sword</name>
     <count>1</count>
   </tag>
@@ -3624,31 +4652,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>tales-of-zestiria</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>delpower-x-bakuhatsu</name>
     <count>1</count>
   </tag>
   <tag>
     <name>karen-senki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ping-pong</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>redline</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>blassreiter</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>etotama</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3660,19 +4668,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>punchline</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>kick-heart</name>
     <count>1</count>
   </tag>
   <tag>
     <name>re-kan</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tsuritama</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3684,19 +4684,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>india</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>boogiepop-phantom</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>inside-mari</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kekkai-sensen</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3712,10 +4700,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>plastic-memories</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>soltyrei</name>
     <count>1</count>
   </tag>
@@ -3724,15 +4708,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>clockwork-planet</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>matsutarou</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>unlimited-fafnir</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3776,14 +4752,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>aphorism</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sengoku-rance</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>yume-miru-kusuri</name>
     <count>1</count>
   </tag>
@@ -3792,15 +4760,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>naruto-gaiden</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>needless</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kyoukai-no-rinne</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3844,19 +4804,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>escaflowne</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>zero-no-shiniki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>seraph-of-the-end</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fairy-tail-zero</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3872,19 +4820,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>akibas-trip</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>waiting-in-the-summer</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>dragon-crisis</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>danmachi</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3896,23 +4832,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>basilisk</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>stealth-symphony</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>overlord</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>girls-of-the-wilds</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>in-this-corner-of-the-world</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3925,10 +4849,6 @@
   </tag>
   <tag>
     <name>ribon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>itasha</name>
     <count>1</count>
   </tag>
   <tag>
@@ -3952,10 +4872,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>princess-kaguya</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ufo-ultramaiden-valkyrie</name>
     <count>1</count>
   </tag>
@@ -3976,10 +4892,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>hibike-euphonium</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>the-rose-of-versailles</name>
     <count>1</count>
   </tag>
@@ -3992,39 +4904,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>sky-wizards-academy</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>gan-kon</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>the-ancient-magus-bride</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>denpa-kyoushi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>jeanie-with-the-light-brown-hair</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>rokka-no-yuusha</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>senki-zesshou-symphogear</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gakkou-gurashi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>os-tan</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4033,22 +4917,6 @@
   </tag>
   <tag>
     <name>zerozaki-soushiki</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>appleseed</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ranpo-kitan</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sister-princess</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>funimation</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4068,10 +4936,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>gate</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>doubt-amano</name>
     <count>1</count>
   </tag>
@@ -4080,27 +4944,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>god-eater</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>anime-de-wakaru-shinryounaika</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kore-wa-zombie-desu-ka</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tonari-no-kaibutsu-kun</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hidan-no-aria</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gangsta</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4116,14 +4960,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>charlotte</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tegami-bachi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>seirei-gensouki</name>
     <count>1</count>
   </tag>
@@ -4136,19 +4972,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>hiroyuki-sawano</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>mcdull</name>
     <count>1</count>
   </tag>
   <tag>
     <name>clover-days</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>relife</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4160,31 +4988,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>ushio-to-tora</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>argento-soma</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>one-punch-man</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>smokin-parade</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>joukamachi-no-dandelion</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>sachika-misawa</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>monster-musume-no-iru-nichijou</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4204,39 +5012,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>madhouse</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>please-teacher</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>light-novel-history</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>no.-6</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>arslan-senki</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>jun-maeda</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>key</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>comet-lucifer</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>triage-x</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4256,27 +5036,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>desert-punk</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>slayers</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>the-kindaichi-case-files</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>noir</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shin-megami-tensei</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>persona</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4285,10 +5045,6 @@
   </tag>
   <tag>
     <name>tsubaki-chou</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>grappler-baki</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4304,35 +5060,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>bobobo-bo-bo-bobo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dragon-ball-movies</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>time-stranger-kyoko</name>
     <count>1</count>
   </tag>
   <tag>
     <name>sasurai-emanon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>digimon-tri</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>seirei-tsukai-no-blade-dance</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>subete-ga-f-ni-naru</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>city-hunter</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4344,15 +5076,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kazuki-takahashi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>croket</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>jormungand</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4361,14 +5085,6 @@
   </tag>
   <tag>
     <name>the-gamer</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>himouto-umaru-chan</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>rakudai-kishi-no-cavalry</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4384,10 +5100,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>chain-chronicle</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>a-tree-of-palme</name>
     <count>1</count>
   </tag>
@@ -4396,23 +5108,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>sgt-frog</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>corpse-party</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>kowabon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sekko-boys</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>snow-white-with-the-red-hair</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4421,14 +5117,6 @@
   </tag>
   <tag>
     <name>spain</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>japan</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dagashi-kashi</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4456,15 +5144,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>konosuba</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>wild-cardz</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>queens-blade</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4472,35 +5152,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>erased</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mysterious-girlfriend-x</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>arpeggio-of-blue-steel</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>blue-gender</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>midnight-eye-gokuu</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>dimension-w</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ima-soko-ni-iru-boku</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hai-to-gensou-no-grimgar</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4509,10 +5165,6 @@
   </tag>
   <tag>
     <name>gundam-wing</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>boruto</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4536,10 +5188,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kaiba</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>witch-hunter-robin</name>
     <count>1</count>
   </tag>
@@ -4548,19 +5196,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>ousama-game</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>greece</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mob-psycho-100</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shinmai-mao-no-testament</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4568,15 +5204,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>karate-shoukoushi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>cross-game</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>ojisan-and-marshmallow</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4584,23 +5212,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>bakemono-no-ko</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>feng-shen-ji</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>koutetsujou-no-kabaneri</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>campione</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>joker-game</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4612,15 +5228,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>bubuki-buranki</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>kirby</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>bakuon</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4648,19 +5256,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>a-brides-story</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hundred</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>magika-no-kenshi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kiznaiver</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4680,23 +5276,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>space-patrol-luluco</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>re-zero</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>north-korea</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fate-grand-order</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>bungou-stray-dogs</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4708,10 +5288,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>twin-star-exorcists</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ace-attorney</name>
     <count>1</count>
   </tag>
@@ -4720,31 +5296,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>gun-gale-online</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>amanchu</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>active-raid</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>reincarnation-no-kaben</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dirty-pair</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tales-of-berseria</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>new-game</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4760,31 +5312,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>qualidea-code</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>alderamin-on-the-sky</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>91-days</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>time-travel-shoujo</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>sengoku-youko</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>hoshi-no-hitomi-no-silhouette</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mezzo-dsa</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4800,10 +5332,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kochikame</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>major</name>
     <count>1</count>
   </tag>
@@ -4812,35 +5340,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>rewrite</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fate-hollow-ataraxia</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tales-of-phantasia</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>school-rumble</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-sky-crawlers</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>your-name</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>yuri-on-ice</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>drifters</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4848,31 +5348,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>keijo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>nasuverse</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gakusen-toshi-asterisk</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>garden-of-words</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>touken-ranbu</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kamigami-no-asobi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>visual-novel-production</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4884,23 +5360,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>pocos-udon-world</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>brave-witches</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>brothers-conflict</name>
     <count>1</count>
   </tag>
   <tag>
     <name>okusama-ga-seitokaichou</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tanaka-kun-is-always-listless</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4916,19 +5380,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>kiss-him-not-me</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>march-comes-in-like-a-lion</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>nanbaka</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>cromartie-high-school</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4940,19 +5392,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>flip-flappers</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>all-out</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>gundam-iron-blooded-orphans</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>baby-steps</name>
     <count>1</count>
   </tag>
   <tag>
@@ -4976,27 +5416,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>dragon-ball-manga</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>historie</name>
     <count>1</count>
   </tag>
   <tag>
     <name>shelter</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>fire-force</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>miss-kobayashis-dragon-maid</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>descending-stories</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5008,15 +5432,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>little-witch-academia</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>claris</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>eromanga-sensei</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5032,19 +5448,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>re-creators</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dragon-ball-heroes</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>wombs</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shuffle</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5060,10 +5464,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>quan-zhi-gao-shou</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>sweet-blue-flowers</name>
     <count>1</count>
   </tag>
@@ -5073,10 +5473,6 @@
   </tag>
   <tag>
     <name>handa-kun</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>black-clover</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5096,23 +5492,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>blame</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>kemono-friends</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>worldend</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kaiji</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hatsune-miku</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5124,19 +5504,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>hajimete-no-gal</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sasami-san-ganbaranai</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>kurosagi-corpse-delivery-service</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>sagrada-reset</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5160,19 +5528,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>tsuki-ga-kirei</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>i-want-to-eat-your-pancreas</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>kiteretsu-daihyakka</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>welcome-to-the-ballroom</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5228,23 +5584,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>recovery-of-an-mmo-junkie</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>blend-s</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>juuni-taisen</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>senryuu-shoujo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tales-of-eternia</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5253,10 +5593,6 @@
   </tag>
   <tag>
     <name>restaurant-to-another-world</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>inuyashiki</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5272,10 +5608,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>crusher-joe</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>kajiura-yuki</name>
     <count>1</count>
   </tag>
@@ -5284,35 +5616,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>devilman-crybaby</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>iono-sama-fanatics</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>devilman</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>children-of-the-whales</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>pop-team-epic</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>outlaw-star</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>all-around-type-moon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>violet-evergarden</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5344,27 +5648,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>cyber-city-oedo-808</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>just-because</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>sora-yori-mo-tooi-basho</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>anime-expo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>death-march</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>vinland-saga</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5377,18 +5665,6 @@
   </tag>
   <tag>
     <name>apocalypse-zero</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>netflix</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>so-im-a-spider-so-what</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>voltron-legendary-defender</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5409,14 +5685,6 @@
   </tag>
   <tag>
     <name>ninja-resurrection</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>gundam-build-fighters-try</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>darling-in-the-franxx</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5444,10 +5712,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>made-in-abyss</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>aru-zombie-shoujo-no-sainan</name>
     <count>1</count>
   </tag>
@@ -5456,19 +5720,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>cells-at-work</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>city</name>
     <count>1</count>
   </tag>
   <tag>
     <name>nozoki-ana</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tomorrows-joe</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5512,35 +5768,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>chrono-trigger</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>mo-dao-zu-shi</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>asobi-asobase</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>chrono-cross</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>dragon-ball-minus</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>banana-fish</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>myanimelist</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>reincarnated-as-a-slime</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5564,15 +5796,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>rascal-does-not-dream-of-bunny-girl</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>dungeon-meshi</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>goblin-slayer</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5580,19 +5804,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>tales-of-symphonia</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>sei-jushi-bismark</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>golden-kamui</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>arawi-keiichi</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5612,35 +5824,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>the-promised-neverland</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>perfect-blue</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>the-rising-of-the-shield-hero</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dororo</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>boogiepop</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>localization</name>
     <count>1</count>
   </tag>
   <tag>
     <name>maquia</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dragon-quest-adventure-of-dai</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5668,23 +5856,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>thunderbolt-fantasy</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>demon-slayer</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>detective-pikachu</name>
     <count>1</count>
   </tag>
   <tag>
     <name>midnight-occult-civil-servants</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dr.stone</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5696,23 +5872,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>mobile-suit-gundam</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>cop-craft</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>arifureta</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>uchi-no-maid-ga-uzasugiru</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>a-certain-scientific-accelerator</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5752,31 +5912,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>weathering-with-you</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>final-fantasy-xiii</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>no-guns-life</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>welcome-to-demon-school-iruma-kun</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>cautious-hero</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>beastars</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>toilet-bound-hanako-kun</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5784,15 +5920,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>ahiru-no-sora</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>plunderer</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>bofuri</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5801,18 +5929,6 @@
   </tag>
   <tag>
     <name>final-fantasy-vii-advent-children</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>kaguya-sama-love-is-war</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tamako-market</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dorohedoro</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5836,10 +5952,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>mao-gakuin-no-futekigosha</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>carole-and-tuesday</name>
     <count>1</count>
   </tag>
@@ -5856,23 +5968,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>jujutsu-kaisen</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>sirius-the-jaeger</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>wandering-witch-journey-of-elaina</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>whisper-of-the-heart</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>goshogun</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5884,15 +5984,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>the-quintessential-quintuplets</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>suppose-a-kid-from-the-last-dungeon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>hortensia-saga</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5916,27 +6008,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>fly-me-to-the-moon</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>wonder-egg-priority</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>chibi-maruko-chan</name>
     <count>1</count>
   </tag>
   <tag>
     <name>princess-knight</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>chainsaw-man</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>tokyo-revengers</name>
     <count>1</count>
   </tag>
   <tag>
@@ -5968,10 +6044,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>classroom-of-the-elite</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>hi-score-girl</name>
     <count>1</count>
   </tag>
@@ -5992,10 +6064,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>komi-cant-communicate</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>the-orbital-children</name>
     <count>1</count>
   </tag>
@@ -6004,15 +6072,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>ascendance-of-a-bookworm</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>my-dress-up-darling</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>shadows-house</name>
     <count>1</count>
   </tag>
   <tag>
@@ -6029,10 +6089,6 @@
   </tag>
   <tag>
     <name>science-fell-in-love</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>spy-x-family</name>
     <count>1</count>
   </tag>
   <tag>
@@ -6064,10 +6120,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>my-stepmoms-daughter-is-my-ex</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>oishinbo</name>
     <count>1</count>
   </tag>
@@ -6096,10 +6148,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>golden-kamuy</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>gabriel-dropout</name>
     <count>1</count>
   </tag>
@@ -6112,23 +6160,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>law</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>to-your-eternity</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>chimimo</name>
     <count>1</count>
   </tag>
   <tag>
     <name>mind-game</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>teasing-master-takagi-san</name>
     <count>1</count>
   </tag>
   <tag>
@@ -6148,19 +6184,7 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>adachi-and-shimamura</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>oshi-no-ko</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>final-fantasy-xv</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>grimoire-of-zero</name>
     <count>1</count>
   </tag>
   <tag>
@@ -6169,10 +6193,6 @@
   </tag>
   <tag>
     <name>jigokuraku</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>phantom-tales-of-the-night</name>
     <count>1</count>
   </tag>
   <tag>
@@ -6188,27 +6208,11 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>gundam-witch-from-mercury</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>dark-gathering</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>compulsive-gambler</name>
     <count>1</count>
   </tag>
   <tag>
-    <name>the-tunnel-to-summer</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>the-genie-family</name>
-    <count>1</count>
-  </tag>
-  <tag>
-    <name>saihate-no-paladin</name>
     <count>1</count>
   </tag>
   <tag>
@@ -6224,10 +6228,6 @@
     <count>1</count>
   </tag>
   <tag>
-    <name>undead-unluck</name>
-    <count>1</count>
-  </tag>
-  <tag>
     <name>ragna-crimson</name>
     <count>1</count>
   </tag>
@@ -6238,5 +6238,9 @@
   <tag>
     <name>bocchi-the-rock</name>
     <count>1</count>
+  </tag>
+  <tag>
+    <name/>
+    <count>0</count>
   </tag>
 </tags>
