@@ -12,7 +12,7 @@ order by number($p/@Score) descending
 return $p
 
 (: Selecciona las primeras 1000 preguntas ordenadas :)
-let $top1000Preguntes := subsequence($preguntesOrdenades, 1, 1000)
+let $top100Preguntes := subsequence($preguntesOrdenades, 1, 100)
 
 (: Per a cada pregunta del top 1000, troba la resposta amb més vots :)
 let $resultat := for $pregunta in $top1000Preguntes
